@@ -1,0 +1,16 @@
+
+.App {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .select-class{
+    width: 50% !important;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 0px 50px 0px 100px;
+  } 
+  .dropdown {
+    display: inline-block;
+  }
+  
+  
